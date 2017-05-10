@@ -74,7 +74,8 @@ hr {
 .bottomButton{
     padding-left: 20%;
     padding-right: 20%;
-
+    background-color: gray;
+    
 }
 .specialButton {
     height: 100%;
