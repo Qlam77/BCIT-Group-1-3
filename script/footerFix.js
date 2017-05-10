@@ -1,3 +1,4 @@
+onresize=fixMenu;
 onload=fixMenu;
 function fixMenu() {
     var x = $("#mainButtonPlus").css('height');
