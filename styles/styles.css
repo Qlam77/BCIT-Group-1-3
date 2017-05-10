@@ -78,6 +78,7 @@ hr {
     
 }
 .specialButton {
+    width: 100%;
     border-radius: 75%;
     background-color: aquamarine;
 }
