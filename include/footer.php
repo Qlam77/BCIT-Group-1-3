@@ -8,7 +8,7 @@
 <br/>
 <br/>
 <br/>
-    <div class="row bottomNavi">
+    <div class="row bottomNavi" style="-webkit-appearance: none; -moz-appearance: none; appearance: none;">
         <div style="padding:0px" class="col s2 buttonHolder">
           <a href="../index.php"><button class="bottomButton"><img class="navImg" src="images/home.png" alt="home"/></button></a>
         </div>
